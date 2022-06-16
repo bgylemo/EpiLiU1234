@@ -1,19 +1,19 @@
 # thymocyte_ASE_paper
 
-Scripts used for data processing and plotting in R.
+Scripts used for data processing and plotting figures.
 
-AUTHORS/SUPPORT
+AUTHORS
 Björn Gylemo, bjorn.gylemo@liu.se
 Anotonio Lentini, antonio.lentini@ki.se
-https://github.com/bgylemo/Issues
+
+SUPPORT
+bjorn.gylemo@liu.se
 
 HARDWARE/SOFTWARE REQUIREMENTS
-x86-64 compatible processors
-64 bit Linux or Mac OS X
-R
+All scripts are written in R.
 
 DIRECTORY CONTENTS
-source: all source files required for compilation
-bin: pre-compiled executables for Linux and Mac OS X
-doc: documentation
-extras: miscellaneous files and scripts
+figure1_and_suppl_1_and_2: Plot scripts related to Fig. 1 and Supplementary Fig. 1 and 2.
+figure2_and_suppl_3: Plot scripts related to Fig. 2 and Supplementary Fig. 3.
+figure3_and_suppl_4: Plot scripts related to Fig. 3 and Supplementary Fig. 4.
+figure4_and_suppl_5: Plot scripts related to Fig. 4 and Supplementary Fig. 5.
