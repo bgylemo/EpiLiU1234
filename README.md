@@ -1,4 +1,4 @@
-# thymocyte_ASE_paper
+Paper
 
 Scripts used for data processing and plotting figures.
 
