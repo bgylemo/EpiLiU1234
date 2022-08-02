@@ -6,7 +6,7 @@ AUTHORS
 
 Björn Gylemo, bjorn.gylemo@liu.se
 
-Anotonio Lentini, antonio.lentini@ki.se
+Antonio Lentini, antonio.lentini@ki.se
 
 SUPPORT
 bjorn.gylemo@liu.se
